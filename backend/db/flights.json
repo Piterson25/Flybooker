@@ -1,0 +1,50 @@
+[
+  {
+    "airline": "Lufthansa",
+    "origin": "New York",
+    "destination": "Berlin",
+    "departureDate": "2023-06-15T12:00:00Z",
+    "arrivalDate": "2023-06-15T18:00:00Z",
+    "image": "https://fly.pl/wp-content/uploads/2014/08/Berlin.jpg"
+  },
+  {
+    "airline": "British Airways",
+    "origin": "London",
+    "destination": "Paris",
+    "departureDate": "2023-06-16T10:00:00Z",
+    "arrivalDate": "2023-06-16T12:00:00Z",
+    "image": "https://dcontent.inviacdn.net/shared/img/web-830/2020/6/12/m0/966731.jpg"
+  },
+  {
+    "airline": "Air France",
+    "origin": "Paris",
+    "destination": "New York",
+    "departureDate": "2023-06-17T14:00:00Z",
+    "arrivalDate": "2023-06-17T20:00:00Z",
+    "image": "https://www.interameryka.com/wp-content/uploads/2015/11/Nowy-Jork-co-zobaczyc-jpg.webp"
+  },
+  {
+    "airline": "Delta Airlines",
+    "origin": "New York",
+    "destination": "Los Angeles",
+    "departureDate": "2023-06-18T08:00:00Z",
+    "arrivalDate": "2023-06-18T12:00:00Z",
+    "image": "https://bi.im-g.pl/im/9b/b4/1b/z29052827AMP,Przedmiescia-Los-Angeles.jpg"
+  },
+  {
+    "airline": "United Airlines",
+    "origin": "Los Angeles",
+    "destination": "Chicago",
+    "departureDate": "2023-06-19T09:00:00Z",
+    "arrivalDate": "2023-06-19T15:00:00Z",
+    "image": "https://floryda.eu/wp-content/uploads/2023/03/CHICAGO-NIERUCHOMOSCI.jpeg"
+  },
+  {
+    "airline": "Emirates",
+    "origin": "Dubai",
+    "destination": "Sydney",
+    "departureDate": "2023-06-20T16:00:00Z",
+    "arrivalDate": "2023-06-21T06:00:00Z",
+    "image": "https://cms.finnair.com/resource/blob/829444/3523a759b61b788b834fe56aa57fa255/sydney-main-data.jpg"
+  }
+]
